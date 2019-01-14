@@ -1,2 +1,2 @@
 today is Friday.
-this is a test.
+this is a modified test.
